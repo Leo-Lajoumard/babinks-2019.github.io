@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	background: #fd6c9e;
+}
+
+
+h1 {
+	color: white; 
+	font-family: impact;
+}
+
+.avatar{
+	border-radius: 130px;
+
+}
+.sug{
+	width: 200px;
+}
+.cadre{
+	border:solid 12px purple;
+	margin: 75px;
+	padding: 10px;
+	background: pink;
+}
